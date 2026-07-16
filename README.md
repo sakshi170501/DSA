@@ -30,17 +30,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sakshi170501/DSA/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/sakshi170501/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sakshi170501/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0791-custom-sort-string](https://github.com/sakshi170501/DSA/tree/master/0791-custom-sort-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshi170501/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2325-decode-the-message](https://github.com/sakshi170501/DSA/tree/master/2325-decode-the-message) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sakshi170501/DSA/tree/master/0242-valid-anagram) |
+| [0791-custom-sort-string](https://github.com/sakshi170501/DSA/tree/master/0791-custom-sort-string) |
 | [2325-decode-the-message](https://github.com/sakshi170501/DSA/tree/master/2325-decode-the-message) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sakshi170501/DSA/tree/master/0242-valid-anagram) |
+| [0791-custom-sort-string](https://github.com/sakshi170501/DSA/tree/master/0791-custom-sort-string) |
 ## Stack
 |  |
 | ------- |
