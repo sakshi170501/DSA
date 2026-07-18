@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sakshi170501/DSA/tree/master/0415-add-strings) |
 | [0647-palindromic-substrings](https://github.com/sakshi170501/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sakshi170501/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sakshi170501/DSA/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/sakshi170501/DSA/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshi170501/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sakshi170501/DSA/tree/master/0242-valid-anagram) |
+| [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sakshi170501/DSA/tree/master/0791-custom-sort-string) |
 | [2325-decode-the-message](https://github.com/sakshi170501/DSA/tree/master/2325-decode-the-message) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sakshi170501/DSA/tree/master/0242-valid-anagram) |
+| [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sakshi170501/DSA/tree/master/0791-custom-sort-string) |
 ## Stack
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/sakshi170501/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/sakshi170501/DSA/tree/master/0415-add-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
