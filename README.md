@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sakshi170501/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sakshi170501/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sakshi170501/DSA/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/sakshi170501/DSA/tree/master/0415-add-strings) |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sakshi170501/DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/sakshi170501/DSA/tree/master/0415-add-strings) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sakshi170501/DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/sakshi170501/DSA/tree/master/0415-add-strings) |
 ## Heap (Priority Queue)
 |  |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sakshi170501/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sakshi170501/DSA/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
