@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sakshi170501/DSA/tree/master/0007-reverse-integer) |
 | [0067-add-binary](https://github.com/sakshi170501/DSA/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/sakshi170501/DSA/tree/master/0204-count-primes) |
 | [0415-add-strings](https://github.com/sakshi170501/DSA/tree/master/0415-add-strings) |
