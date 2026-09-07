@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshi170501/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/sakshi170501/DSA/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/sakshi170501/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sakshi170501/DSA/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/sakshi170501/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/sakshi170501/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshi170501/DSA/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/sakshi170501/DSA/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/sakshi170501/DSA/tree/master/0242-valid-anagram) |
 | [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sakshi170501/DSA/tree/master/0791-custom-sort-string) |
@@ -155,8 +157,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshi170501/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/sakshi170501/DSA/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshi170501/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/sakshi170501/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
