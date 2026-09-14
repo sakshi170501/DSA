@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sakshi170501/DSA/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/sakshi170501/DSA/tree/master/0415-add-strings) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sakshi170501/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sakshi170501/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sakshi170501/DSA/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sakshi170501/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/sakshi170501/DSA/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
