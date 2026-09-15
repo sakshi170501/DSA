@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshi170501/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshi170501/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/sakshi170501/DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sakshi170501/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sakshi170501/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sakshi170501/DSA/tree/master/0148-sort-list) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sakshi170501/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshi170501/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/sakshi170501/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/sakshi170501/DSA/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sakshi170501/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sakshi170501/DSA/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/sakshi170501/DSA/tree/master/0148-sort-list) |
