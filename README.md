@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sakshi170501/DSA/tree/master/0791-custom-sort-string) |
 | [0917-reverse-only-letters](https://github.com/sakshi170501/DSA/tree/master/0917-reverse-only-letters) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/sakshi170501/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshi170501/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2325-decode-the-message](https://github.com/sakshi170501/DSA/tree/master/2325-decode-the-message) |
 ## Hash Table
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshi170501/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/sakshi170501/DSA/tree/master/0234-palindrome-linked-list) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshi170501/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1003-check-if-word-is-valid-after-substitutions](https://github.com/sakshi170501/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sakshi170501/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/sakshi170501/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Greedy
