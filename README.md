@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sakshi170501/DSA/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/sakshi170501/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshi170501/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/sakshi170501/DSA/tree/master/0134-gas-station) |
 | [0189-rotate-array](https://github.com/sakshi170501/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sakshi170501/DSA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/sakshi170501/DSA/tree/master/0204-count-primes) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/sakshi170501/DSA/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/sakshi170501/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sakshi170501/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
