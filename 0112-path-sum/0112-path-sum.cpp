@@ -12,7 +12,9 @@ public:
 
         // Check only at a leaf node
         if (root->left == NULL && root->right == NULL) {
-            return sum == targetSum;
+            if(sum==targetSum){
+                return true;
+            }
         }
 
         bool leftans = solve(root->left, targetSum, sum);
