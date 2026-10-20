@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshi170501/DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/sakshi170501/DSA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshi170501/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0051-n-queens](https://github.com/sakshi170501/DSA/tree/master/0051-n-queens) |
 | [0074-search-a-2d-matrix](https://github.com/sakshi170501/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshi170501/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/sakshi170501/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sakshi170501/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/sakshi170501/DSA/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/sakshi170501/DSA/tree/master/0125-valid-palindrome) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sakshi170501/DSA/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/sakshi170501/DSA/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/sakshi170501/DSA/tree/master/0242-valid-anagram) |
 | [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
