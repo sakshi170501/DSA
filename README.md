@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sakshi170501/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sakshi170501/DSA/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/sakshi170501/DSA/tree/master/0647-palindromic-substrings) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/sakshi170501/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/sakshi170501/DSA/tree/master/0917-reverse-only-letters) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sakshi170501/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sakshi170501/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshi170501/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/sakshi170501/DSA/tree/master/0242-valid-anagram) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/sakshi170501/DSA/tree/master/0767-reorganize-string) |
 | [0791-custom-sort-string](https://github.com/sakshi170501/DSA/tree/master/0791-custom-sort-string) |
 | [2325-decode-the-message](https://github.com/sakshi170501/DSA/tree/master/2325-decode-the-message) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sakshi170501/DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sakshi170501/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/sakshi170501/DSA/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sakshi170501/DSA/tree/master/0341-flatten-nested-list-iterator) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Design
 |  |
 | ------- |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sakshi170501/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/sakshi170501/DSA/tree/master/0112-path-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -318,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sakshi170501/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshi170501/DSA/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -330,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/sakshi170501/DSA/tree/master/0724-find-pivot-index) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
