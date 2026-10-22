@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sakshi170501/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshi170501/DSA/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sakshi170501/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sakshi170501/DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/sakshi170501/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sakshi170501/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshi170501/DSA/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sakshi170501/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/sakshi170501/DSA/tree/master/0341-flatten-nested-list-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sakshi170501/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/sakshi170501/DSA/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sakshi170501/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sakshi170501/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sakshi170501/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/sakshi170501/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshi170501/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/sakshi170501/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
