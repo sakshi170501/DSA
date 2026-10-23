@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sakshi170501/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sakshi170501/DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshi170501/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/sakshi170501/DSA/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/sakshi170501/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sakshi170501/DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/sakshi170501/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/sakshi170501/DSA/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/sakshi170501/DSA/tree/master/0134-gas-station) |
 | [0649-dota2-senate](https://github.com/sakshi170501/DSA/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/sakshi170501/DSA/tree/master/0680-valid-palindrome-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshi170501/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/sakshi170501/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sakshi170501/DSA/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/sakshi170501/DSA/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/sakshi170501/DSA/tree/master/0518-coin-change-ii) |
