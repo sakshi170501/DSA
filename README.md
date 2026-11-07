@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sakshi170501/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/sakshi170501/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sakshi170501/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sakshi170501/DSA/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshi170501/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshi170501/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/sakshi170501/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sakshi170501/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sakshi170501/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/sakshi170501/DSA/tree/master/0067-add-binary) |
@@ -435,5 +437,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sakshi170501/DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/sakshi170501/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
