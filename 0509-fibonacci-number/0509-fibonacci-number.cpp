@@ -33,9 +33,24 @@ public:
         return dp[n];
 
     }
+    int space(int n){
+        if(n==0) return 0;
+        if(n==1) return 1;
+       
+        int prev1=1;
+        int prev2=0;
+        int curr=-1;
+        for(int i=2;i<=n;i++){
+            curr=prev1+prev2;
+            prev2=prev1;
+            prev1=curr;
+        }
+        return curr;
+
+    }
     int fib(int n) {
         vector<int> dp(n + 1, -1);
-        int ans = tabulation(n, dp);
+        int ans =space(n);
 
         return ans;
     }
