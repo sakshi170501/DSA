@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sakshi170501/DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/sakshi170501/DSA/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshi170501/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/sakshi170501/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sakshi170501/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Math
 |  |
