@@ -19,7 +19,8 @@ public:
 
         return inc || exc;
     }
-    bool solvetd(vector<int>& nums, int target, int i, vector<vector<int>>& dp) {
+    bool solvetd(vector<int>& nums, int target, int i,
+                 vector<vector<int>>& dp) {
         // Base cases
         if (target < 0 || i >= nums.size()) {
             return false;
@@ -42,6 +43,71 @@ public:
         return dp[i][target];
     }
 
+bool solvebu(vector<int>& nums, int target) {
+    int n = nums.size();
+
+    vector<vector<int>> dp(n + 1, vector<int>(target + 1, 0));
+
+    // Base case: target = 0 is always possible
+    for (int i = 0; i <= n; i++) {
+        dp[i][0] = 1;
+    }
+
+    for (int i = n - 1; i >= 0; i--) {
+        for (int t = 1; t <= target; t++) {
+
+            bool inc = false;
+
+            // Include current element
+            if (t - nums[i] >= 0) {
+                inc = dp[i + 1][t - nums[i]];
+            }
+
+            // Exclude current element
+            bool exc = dp[i + 1][t];
+
+            dp[i][t] = inc || exc;
+        }
+    }
+
+    return dp[0][target];
+}
+
+bool solveso(vector<int>& nums, int target) {
+    int n = nums.size();
+    vector<int>curr(target+1,0);
+    vector<int>next(target+1,0);
+
+    // vector<vector<int>> dp(n + 1, vector<int>(target + 1, 0));
+
+    // Base case: target = 0 is always possible
+    for (int i = 0; i <= n; i++) {
+        next[0] = 1;
+    }
+
+    for (int i = n - 1; i >= 0; i--) {
+        for (int t = 1; t <= target; t++) {
+
+            bool inc = false;
+
+            // Include current element
+            if (t - nums[i] >= 0) {
+                inc = next[t - nums[i]];
+            }
+
+            // Exclude current element
+            bool exc = next[t];
+
+            curr[t] = inc || exc;
+        }
+        next=curr;
+    }
+
+    return curr[target];
+}
+
+ 
+
     bool canPartition(vector<int>& nums) {
 
         int sum = 0;
@@ -59,7 +125,7 @@ public:
         int i = 0;
         vector<vector<int>> dp(nums.size(), vector<int>(target + 1, -1));
 
-        bool ans = solvetd(nums, target, i, dp);
+        bool ans = solveso(nums, target);
 
         return ans;
     }
